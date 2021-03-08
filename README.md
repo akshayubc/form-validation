@@ -1,2 +1,2 @@
 # form-validation
-Form validation using Regex and jQuert
+Form validation using Regex and jQuery
